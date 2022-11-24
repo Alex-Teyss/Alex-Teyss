@@ -1,7 +1,7 @@
-# Hi, I’m @Alex-Teyss, Ruby On Rails/React/Vue Full-Stack developer. :smile:
+# Hi, I’m @Alex-Teyss, Ruby On Rails, React, Vue Full-Stack developer. :smile:
 
 # Main stack: 
-  - Ruby On Rails with React or Vue.
+  - Ruby On Rails with React or Vue otherwise I use Stimulus, or basic views.
 
 # Testing: 
   - Rspec (Unit test), Capybara (End-To-End and Integration test), Percy + Capybara (Visual test), Jest (Unit Testing for frontend).
