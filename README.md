@@ -1,3 +1,16 @@
-# Hi, I’m @Alex-Teyss, Ruby On Rails/React/Vue developer. :smile:
-- ## This is a new profile. 
-- ## Description coming soon !
+# Hi, I’m @Alex-Teyss, Ruby On Rails/React/Vue Full-Stack developer. :smile:
+
+# Main stack: 
+  - Ruby On Rails with React or Vue.
+
+# Testing: 
+  - Rspec (Unit test), Capybara (End-To-End and Integration test), Percy + Capybara (Visual test), Jest (Unit Testing for frontend).
+
+# CI/CD: 
+  - SempahoreCI, Heroku or Scalingo review app pipeline and staging/prod.
+
+# Front-End & styling: SCSS, TailiwindCSS, ChakraUI, MaterialUI.
+  
+- ## Description coming soon for further information please contact me at: alextey28@gmail.com !
+
+# See you soon.
