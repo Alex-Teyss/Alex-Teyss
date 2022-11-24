@@ -18,4 +18,4 @@
   
 ## Description coming soon for further information please contact me at: alextey28@gmail.com !
 
-# See you soon 😄.
+# See you soon. 😄
