@@ -1,6 +1,7 @@
-# Hi, I’m @Alex-Teyss, Ruby On Rails, React, Vue Full-Stack Web developer. :smile:
+# Hi, I’m @Alex-Teyss, 
+# Ruby On Rails, React, Vue Full-Stack Web developer. :smile: :rocket:
 
-# Main stack: 
+# Main stack:
   - Ruby On Rails with React or Vue otherwise I use Stimulus, or basic views.
 
 # Database: 
