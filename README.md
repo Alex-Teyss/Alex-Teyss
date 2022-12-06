@@ -16,8 +16,8 @@
 # Front-End & styling: 
   - SCSS, TailiwindCSS, ChakraUI, MaterialUI.
   
-## For further information please contact me at: alextey28@gmail.com !
+# For more inforation information please contact me at: alextey28@gmail.com !
 
-## Description coming soon
+# Description coming and portfolio too !
 
 # See you soon. 😄
