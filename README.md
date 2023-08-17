@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Alex-Teyss
+- 👀 I’m interested in developing some stuff with Python
+- 🌱 I’m currently learning Python for Data Science and Django for the web
+- 📫 How to reach me:
+  Linkedin: Alexandre Teyssier
+  email: alextey28@gmail.com
+
+<!---
+Alex-Teyss/Alex-Teyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
