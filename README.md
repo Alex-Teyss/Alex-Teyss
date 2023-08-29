@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alex-Teyss
-- 👀 I’m interested in developing some stuff with Python
-- 🌱 I’m currently learning Python for Data Science and Django for the web
+- 👀 I’m interested in developing some stuff with Python, Ruby and Javascript
+- 🌱 I’m currently learning Python for Data Science and Rails and Javascript for the web development
 - 📫 How to reach me:
-  Linkedin: Alexandre Teyssier
+  Linkedin: https://www.linkedin.com/in/alexandre-teyssier/
   email: alextey28@gmail.com
 
 <!---
