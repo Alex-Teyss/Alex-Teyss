@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @Alex#Teyss
+# 👋 Hi, I am Alexandre Teyssier
+# FullStack developer & Data Science Learner 
 I develop some stuff with Python, Ruby and Javascript
 and I am currently learning Python for Data Science and Rails and Javascript for the web development
 # 📫 How to reach me:
