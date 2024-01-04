@@ -1,5 +1,5 @@
 # 👋 Hi, I am Alexandre Teyssier
-## 🧑‍🎓 What I'm learning right now:
+## 📖 What I'm learning right now:
   + Fundamentals of Python
   + Basic Data Structures and Algorithms
 
