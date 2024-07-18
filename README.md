@@ -7,12 +7,14 @@ I am a Software Engineer for almost 3 years, I am passionate about data and arti
 - 💬 Ask me about my resume if you want more information
 - 📫 How to reach me: alextey28@gmail.com
 
+I’m currently learning SQL for Big Data and Python advanced stuff to apply my skills in Deep Learning, Machine Learning, Data & IA.
+
 <!--
 **Alex-Teyss/Alex-Teyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ....
+- 🌱 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
