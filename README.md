@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer looking 
 
 ## 🤝 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-teyssier/L)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-teyssier/L)
 
 Thanks for visiting my GitHub profile! Feel free to explore and reach out if you want to collaborate or just chat about technology. 🚀
 
