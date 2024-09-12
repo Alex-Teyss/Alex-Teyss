@@ -15,10 +15,6 @@ Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer looking 
 - **Frameworks & Librairies**: Django, React.js, Next.js, Prisma, Ruby On Rails, TailwindCSS, Shadcn/ui
 - **Tools**: PostgreSQL, SQL, Git, Notion, Jira, SemaphoreCI, Heroku, Vercel, Hostinger
 
-## 📈 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-Teyss&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
-
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/alexandre-teyssier/L)
