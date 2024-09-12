@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer looking 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Web Applications & AI.
-- 🌱 I’m currently learning Django, Deep learning concept.
+- 🌱 I’m currently learning Django, Deep learning concepts.
 - 💬 Ask me about my resume.
 - 📫 How to reach me: [alextey28@gmail.com](alextey28@gmail.com).
 
