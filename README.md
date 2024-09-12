@@ -15,9 +15,11 @@ Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer looking 
 - **Frameworks & Librairies**: Django, React.js, Next.js, Prisma, Ruby On Rails, TailwindCSS, Shadcn/ui
 - **Tools**: PostgreSQL, SQL, Git, Notion, Jira, SemaphoreCI, Heroku, Vercel, Hostinger
 
+<!--
 ## 🤝 Connect with Me
 
 - [LinkedIn](Your LinkedIn Profile URL)
+-->
 
 Thanks for visiting my GitHub profile! Feel free to explore and reach out if you want to collaborate or just chat about technology. 🚀
 
