@@ -1,6 +1,6 @@
 ## Hi there, I am Alexandre👋
 
-Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer looking for a full-time job with a love for the artfificial intelligence.
+Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer looking for a full-time job with a love for the artificial intelligence.
 
 ## 🚀 About Me
 
