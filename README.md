@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer looking 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Web Applications & AI with Next.js or Ruby On Rails.
-- 🌱 I’m currently learning Django, Deep learning concepts.
+- 🌱 I’m currently learning Next.js Advanced concept
 - 💬 Ask me about my resume.
 - 📫 How to reach me: [alextey28@gmail.com](alextey28@gmail.com).
 
